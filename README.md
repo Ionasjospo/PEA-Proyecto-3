@@ -25,7 +25,7 @@ r = poisson.rvs(L,size = 1000)
 <b>Se pide:</b>
 1. En este ejercicio trabajaremos con la distribucion 1.
 
-    a) Generar muestras aleatorias de tamaños 102, 103, 104 y 105
+    a) Generar muestras aleatorias de tamaños 100, 1000, 10000 y 100000
 
     b) Hacer un diagrama de cajas para cada una de las muestras generadas en la parte anterior.¿Existen datos atıpicos en las muestras?
 
@@ -39,7 +39,7 @@ r = poisson.rvs(L,size = 1000)
 
 2. En este ejercicio trabajaremos con la distribucion 2.
 
-    a) Generar muestras aleatorias de tamaños 102, 103, 104 y 105.
+    a) Generar muestras aleatorias de tamaños 100, 1000, 10000 y 100000
 
     b) Hacer un diagrama de cajas para cada una de las muestras generadas en la parte anterior. ¿Existen datos atıpicos en las muestras
 
@@ -53,7 +53,7 @@ r = poisson.rvs(L,size = 1000)
 
 3. En este ejercicio trabajaremos con la distribucion 3.
 
-    a) Generar muestras aleatorias de tamaños 102, 103, 104 y 105.
+    a) Generar muestras aleatorias de tamaños 100, 1000, 10000 y 100000
 
     b) Hacer un diagrama de cajas para cada una de las muestras  generadas en la parte anterior. ¿Existen datos atıpicos en las muestras?
 
